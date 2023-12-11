@@ -33,9 +33,7 @@ The CSS challenge is a very important of the course, as it displays your abiliti
 
 ## Contact-link URL to GitHub repository
 
-## Contact-link URL to GitHub repository
-
-   https://github.com/khumbulani9 
+ https://github.com/khumbulani9 
 
 
 
