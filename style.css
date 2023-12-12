@@ -22,10 +22,22 @@ p {
   margin: 0;
 }
 
-<body style="
+<body style="{
     background: firebrick;
+}
 
 .menu {
   display:flex;
   justify-content: space-around;
 }
+.hero img {
+    height: 300px;  
+}
+
+
+
+
+
+
+
+
