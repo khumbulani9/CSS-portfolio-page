@@ -22,4 +22,10 @@ p {
   margin: 0;
 }
 
-<body style ="background-color: firebrick";
+<body style="
+    background: firebrick;
+
+.menu {
+  display:flex;
+  justify-content: space-around;
+}
