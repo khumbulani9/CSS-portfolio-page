@@ -27,6 +27,8 @@ The CSS challenge is a very important of the course, as it displays your abiliti
 
 ## Link URL to deployed app on GitHub
 
+https://khumbulani9.github.io/CSS-portfolio-page/
+
 ## Website Page screenshot link URL to GitHub repository
 
 ![CSSportfolio] (![image](https://github.com/khumbulani9/CSS-portfolio-page/assets/146132836/60a2d279-ac0d-495d-b0dc-93e77d7456d3) 
@@ -34,6 +36,9 @@ The CSS challenge is a very important of the course, as it displays your abiliti
 ## Contact-link URL to GitHub repository
 
  https://github.com/khumbulani9 
+
+ ## Reference
+ https://bootcampspot.instructure.com/courses/5651/modules
 
 
 
