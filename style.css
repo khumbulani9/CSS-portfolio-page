@@ -3,13 +3,13 @@
 }
 
 body {
-  margin: 0;
-  padding: 0;
+  margin: 100;
+  padding: 90;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   line-height: 1.5;
 }
 
-h1,
+h1,</.h1 colgroup
 h2,
 h3,
 h4,
@@ -33,6 +33,10 @@ p {
 .hero img {
     height: 300px;  
 }
+.h1 {
+  border: 2px solid powderblue;
+}
+
 
 
 
