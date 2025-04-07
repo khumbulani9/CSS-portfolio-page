@@ -9,7 +9,7 @@
 
 ## Description of the assignment
 
-The CSS challenge is a very important of the course, as it displays your abilities and the skills which you have mastered for building web applications. Showingcasing the deployed portfolio may also be very advantageous with regards to landing a job.
+The React portfoliopro is a modern and customizable personal portfolio web template built using the popular React library. Provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professional and visually appealing way. With its responsive design and clean code. The Portfolio addresses all the required skills and abilities a candidate has to offer to a company, similalrly contributing towards to the candidate s success to getting hired for a job within the web development sector.
 
 ## Acceptance criteria
 
